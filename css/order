@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.thanhtren li a{
+    color: rgb(255,190,200);
+}
+.thanhke{
+    width: 100%;
+    height: 1px;
+    background-color: black;
+}
+.tieude{
+    margin-left: 150px;
+    margin-top:50px;
+    margin-bottom: 60px;
+}
+.btadd{
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
+.bang{
+    margin: 0 150px;
+}
+.thanhke1{
+    margin-top: 70px;
+    width: 100%;
+    height: 40px;
+    background-color:  rgb(255,71,87);
+}
+.cttk p{
+    text-align: center;   
+    padding-top:5px ;
+    color: #fff;
+    
+}
+.bttt{
+    margin-top: 50px;
+
+}

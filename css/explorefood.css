@@ -1,0 +1,107 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.logo{
+    padding-left: 100px;
+}
+.anhbanner{
+    background-image: url("../images/banner.jpg");
+    height: 300px;
+    background-size:cover;
+    background-position-y: 50%;
+    display:flex;
+    align-items: center;
+    justify-content: center;  
+    
+}
+.searchbanner{ 
+    margin: auto;
+    width: 50%;
+    margin-top: -180px;
+}
+.btsearch{
+    background-color:rgb(240, 96, 96) ;
+    color: #fff;
+}
+.thanhngang{
+    margin-top: 1%;
+    padding-right:100px ;
+}
+.thanhngang ul li a{
+    color:rgb(238, 55, 55);
+}
+.Home_title {
+    text-align: center;
+    padding-bottom: 50px;
+}
+.anh1 img{
+       
+        border-radius: 20px;
+}
+.box1{
+    margin-top:-20%;
+    color: #fff;
+    font-size: x-large;
+    margin-left: 40%;
+}
+.anh2 img{
+   
+    border-radius: 20px;
+}
+.box2 {
+    
+    color:#fff;
+    margin-top:-20%;
+    font-size:x-large;
+    margin-left: 40%;
+
+}
+.anh3 img{
+    
+    border-radius: 20px;
+}
+.box3{
+   
+    color:#fff;
+    margin-top:-20%;   
+    font-size:x-large;
+    margin-left: 40%;
+} 
+
+.seefood a{
+    text-decoration: none;
+    color:rgb(245, 63, 63)
+    
+}
+.seefood{
+    text-align: center;
+    padding-bottom: 30px ;
+}
+.col1{
+    display: inline-block;
+}
+
+.a1 {
+    margin-left: 700px;  
+}
+.a2 {
+    margin-left: 40px;  
+}
+.a3 {
+    margin-left: 40px;  
+}
+.footer{
+    margin-top: 60px;
+    display: flex;
+    padding-bottom: 15px;
+}
+.end{
+    align-items: center;
+    text-align: center;
+    padding-bottom:10px ;
+    
+}
+.end a{
+    text-decoration: none;
+}
